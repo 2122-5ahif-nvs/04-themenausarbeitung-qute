@@ -2,4 +2,4 @@
 
 ## GitHub Repos
 
-[https://davidenkovic.github.io/qute-example/](Qute Example)
+[Qute Example](https://davidenkovic.github.io/qute-example/)
