@@ -2,12 +2,12 @@
 
 ## GH Pages
 
-[Qute Example](https://davidenkovic.github.io/qute-example/)
+[Qute Example (GH Pages)](https://davidenkovic.github.io/qute-example/)
 
-[Qute Example](https://davidenkovic.github.io/qute-slides/) 
+[Qute Slides (GH Pages)](https://davidenkovic.github.io/qute-slides/) 
 
 ## GH Repos
 
-[Qute Example](https://github.com/davidenkovic/qute-example/)
+[Qute Example (Repo)](https://github.com/davidenkovic/qute-example/)
 
-[Qute Example](https://github.com/davidenkovic/qute-slides/) 
+[Qute Example (Repo)](https://github.com/davidenkovic/qute-slides/) 
