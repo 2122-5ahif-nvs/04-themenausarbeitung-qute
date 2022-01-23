@@ -10,4 +10,4 @@
 
 [Qute Example (Repo)](https://github.com/davidenkovic/qute-example/)
 
-[Qute Example (Repo)](https://github.com/davidenkovic/qute-slides/) 
+[Qute Slides (Repo)](https://github.com/davidenkovic/qute-slides/) 
