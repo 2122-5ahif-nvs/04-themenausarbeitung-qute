@@ -1,4 +1,4 @@
-# 04-themenausarbeitung-qute
+# 04-themenausarbeitung-qute Ignjatovic David
 
 ## GH Pages
 
