@@ -2,7 +2,7 @@
 
 ## GH Pages
 
-Hier ist meine GitHub Page und meine Slides für die Präsentation.
+Hier findet man ein Qute Tutorial und Slides für die Präsentation.
 
 [Qute Example and Tutorial (GH Pages)](https://davidenkovic.github.io/qute-example/)
 
@@ -10,7 +10,7 @@ Hier ist meine GitHub Page und meine Slides für die Präsentation.
 
 ## GH Repos
 
-Hier sind die einzelnen Repositories.
+Hier sind die GitHub Repositories.
 
 [Qute Example and Tutorial (Repo)](https://github.com/davidenkovic/qute-example/)
 
